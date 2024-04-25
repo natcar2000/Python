@@ -14,7 +14,7 @@ def principal():
             print(inversao)
 
 
-# Permite ao osuário informar a string que ele deseja inverter
+# Permite ao usuário informar a string que ele deseja inverter
 def informa_string():
     string = input('Escreva uma palavra ou uma frase para inverter: ')
     return string
